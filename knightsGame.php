@@ -5,7 +5,6 @@ require 'knight.php';
 
 class KnightsGame
 {
-
     private Knight $winner;
 
     public function __construct(int $numberOfKnights = 6)
@@ -62,7 +61,6 @@ class KnightsGame
             $knight = new Knight();
             $knights[$i] = $knight;
         }
-
         return $this->simulate($knights);
     }
 
