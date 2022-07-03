@@ -1,6 +1,6 @@
 # knightsGame
 
-Use php app.php to run the script<br>
+Use "php app.php" cli command to run the script<br>
 
 Rules of the game:<br>
 • any number of knights in a circle <br>
