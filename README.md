@@ -1,5 +1,7 @@
 # knightsGame
 
+PHP version : 7.4 <br>
+
 Use "php app.php" cli command to run the script<br>
 
 Rules of the game:<br>
