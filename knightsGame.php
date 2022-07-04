@@ -1,7 +1,7 @@
 <?php
 
-require 'dice.php';
-require 'knight.php';
+require_once 'dice.php';
+require_once 'knight.php';
 
 class KnightsGame
 {

@@ -1,6 +1,6 @@
 <?php
 
-require 'knightsGame.php';
+require_once 'knightsGame.php';
 
 function main()
 {
